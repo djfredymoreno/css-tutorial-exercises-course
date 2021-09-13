@@ -13,14 +13,14 @@
 	font-weight: bold;
 }
 
-.spades,
-.spades:after {
+.heart,
+.heart:after {
 	content: "♤";
 	color: black;
 }
 
-.heart,
-.heart:after {
+.spades,
+.spades:after {
 	content: "♡";
 	color: red;
 }
